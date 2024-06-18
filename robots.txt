@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://regenatiome.github.io/sitemap
+Sitemap: https://regenatiome.github.io/app/sitemap
+Sitemap: https://regenatiome.github.io/assets/sitemap
+Sitemap: https://regenatiome.github.io/css/sitemap
+Sitemap: https://regenatiome.github.io/includes/sitemap
+Sitemap: https://regenatiome.github.io/item/sitemap
+Sitemap: https://regenatiome.github.io/src/sitemap
